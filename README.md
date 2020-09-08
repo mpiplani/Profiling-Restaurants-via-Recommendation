@@ -10,15 +10,17 @@
 
 ## Techniques
 ### 1) Collaborative Filtering
+     a) Item-based Filtering
+     b) User-based Filtering
 ### 2) Content Based Recommender System
 
 
-## MEHAK PIPLANI
+### MEHAK PIPLANI
  
 
 
-## SHIVAM SARDANA
+### SHIVAM SARDANA
 
 
 
-## SHUBHUM BANKA
+### SHUBHUM BANKA
