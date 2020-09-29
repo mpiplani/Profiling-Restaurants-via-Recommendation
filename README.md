@@ -5,7 +5,7 @@
 ### 1) PROPOSAL SEPTEMBER 21
 ### 2) Data Description + Results (Mid term report) October 3
 ### 3) Project Presentation November 16
-### 4) Final Report November 39
+### 4) Final Report November 30
 
 
 ## Techniques
@@ -16,8 +16,7 @@
 
 
 ### MEHAK PIPLANI
- 
-
+ PART A TASK 1 TASK 2
 
 ### SHIVAM SARDANA
 
