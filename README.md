@@ -20,6 +20,7 @@
 
 ### SHIVAM SARDANA
 PART A Get ingredients of recipes provided by Mehak's code
+Ingredients dataset link : https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions
 
 
 ### SHUBHUM BANKA
